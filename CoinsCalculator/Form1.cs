@@ -70,6 +70,7 @@ namespace CoinsCalculator
                 }
             }
             if (!valueFound) lbResult.Text = "Value not possible";
+            //test
         }
     }
 }
