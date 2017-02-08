@@ -74,6 +74,7 @@ namespace CoinsCalculator
             //test2
             //test3
             //branch:JM
+            //branch:Master
 
         }
     }
