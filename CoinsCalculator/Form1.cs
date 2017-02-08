@@ -72,6 +72,9 @@ namespace CoinsCalculator
             if (!valueFound) lbResult.Text = "Value not possible";
             //test
             //test2
+            //test3
+            //branch:JM
+
         }
     }
 }
